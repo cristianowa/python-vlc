@@ -20,7 +20,8 @@ You can get the latest version of the code generator from
 <https://github.com/oaubert/python-vlc/> or
 <http://git.videolan.org/?p=vlc/bindings/python.git>.
 
-To generate the vlc.py module and its documentation, use
+To generate the vlc.py module and its documentation,
+make sure you have the libvlc headers in your systems and use
 
     make
 
